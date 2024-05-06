@@ -1,4 +1,4 @@
-# html-suspended-page 🚫
+# html-suspended-page ⚠️
 
 A simple page to put on a client's website who is avoiding paying you for it (sigh).
 
